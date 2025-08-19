@@ -88,7 +88,7 @@ html{
 }
 
 body{
-    background-image: url("fundo.jpg");
+    background-image: url("imgfundo.jpg");
 	background-repeat: no-repeat;
 	background-position: center center;
     background-size: cover;
@@ -101,6 +101,7 @@ footer{
     padding: 10px;
     border-radius: 30px;
 }
+
 
 
 

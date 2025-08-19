@@ -88,7 +88,7 @@ html{
 }
 
 body{
-	background-image: url(../tete/fundo.jpg);
+	background-image: "fundo.jpg";
 	background-repeat: no-repeat;
 	background-position: center center;
     background-size: cover;
@@ -101,3 +101,4 @@ footer{
     padding: 10px;
     border-radius: 30px;
 }
+

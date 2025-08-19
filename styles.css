@@ -95,12 +95,13 @@ body{
 }
 
 footer{
-	background-color: rgba(0, 0, 0, 0.6);
+	background-color: rgba(0, 0, 0, 0.2);
 	max-width: 1500px;
     margin: 10 auto;
     padding: 10px;
     border-radius: 30px;
 }
+
 
 
 
